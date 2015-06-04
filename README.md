@@ -11,9 +11,9 @@ To install package widh bower
 
 `bower install bower-angular-tabs --save`
 
-
+or
 `bower install npm-angular-tabs --save`
-
+or
 
 `bower install ng-angular-tabs --save`
 
