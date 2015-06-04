@@ -1,4 +1,4 @@
-# angular-tabs
+# angular-tabs [![Build Status: Linux](https://travis-ci.org/node-package/angular-tabs.svg?branch=master)](https://github.com/node-package/angular-tabs)
 
 # Eng
 
