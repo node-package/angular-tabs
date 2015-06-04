@@ -1,0 +1,30 @@
+{
+  "name": "angular-tabs",
+  "version": "1.0.0",
+  "description": "Angular JS version of the tabs directive",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "npm install",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -a localhost -p 8888 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://anisabid@github.com/node-package/angular-tabs.git"
+  },
+  "keywords": [
+    "Tabs"
+  ],
+  "author": "Anis ABID",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/node-package/angular-tabs/issues"
+  },
+  "homepage": "https://github.com/node-package/angular-tabs",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-uglify": "^1.2.0",
+    "gulp-uglifyjs": "^0.6.2"
+  }
+}

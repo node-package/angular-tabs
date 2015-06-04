@@ -1,0 +1,21 @@
+{
+  "name": "angular-tabs",
+  "version": "1.0.0",
+  "homepage": "https://github.com/node-package/angular-tabs",
+  "authors": [
+    "Anis ABID <anab.tn@gmail.com>"
+  ],
+  "description": "Angular JS version of the tabs directive",
+  "main": "dist/angular.tabs.min.js",
+  "keywords": [
+    "Tabs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
