@@ -2,11 +2,7 @@
   "name": "angular-tabs",
   "version": "1.0.0",
   "description": "Angular JS version of the tabs directive",
-  "main": "index.js",
-  "scripts": {
-    "prestart": "npm install",
-    "start": "http-server -a localhost -p 8888 -c-1"
-  },
+  "main": "src/angular.tab.js",
   "repository": {
     "type": "git",
     "url": "https://anisabid@github.com/node-package/angular-tabs.git"
