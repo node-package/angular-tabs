@@ -4,9 +4,9 @@ node_js:
 before_install:
   - npm install npm@1.4 -g
   - npm install -g gulp-cli
+  - npm install
 after_success :
-  - grunt app-init
-  - grunt app-build
+  - gulp build
 notifications:
   email:
     recipients:
