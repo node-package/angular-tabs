@@ -7,5 +7,3 @@
 
 ## Requires
 - the [angularjs](https://github.com/angular/angular.js) framework
-
-Test
